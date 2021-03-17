@@ -15,6 +15,7 @@ Solutions to Math599 handouts
 - 06-Solving-Ax-=-b
 - 07-Projection
 - 08-Orthogonal-basis
+  + [2021S](08-Orthogonal-basis-2021S.ipynb) by Sanny Bùi, 朱立民, 施怡安, 林其璜, 顏廷維
 - 09-Spectral-decomposition
 - 10-Change-of-basis-for-vectors
 - 11-Change-of-basis-for-matrices
