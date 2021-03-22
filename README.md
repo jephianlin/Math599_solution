@@ -14,6 +14,7 @@ Solutions to Math599 handouts
   + [2021S](05-Solving-Ax-=-0-2021S.ipynb) by 張辰瑜, 張君瑋, 陳柏勳, 呂淳泓, 蘇禹丞
 - 06-Solving-Ax-=-b
 - 07-Projection
+  + [2021S](07-Projection-2021S.ipynb) by 許峻彥, 胡璧翎, 李翊誠, 林靖恩, 吳世鴻
 - 08-Orthogonal-basis
   + [2021S](08-Orthogonal-basis-2021S.ipynb) by Sanny Bùi, 朱立民, 施怡安, 林其璜, 顏廷維
 - 09-Spectral-decomposition
