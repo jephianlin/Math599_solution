@@ -10,16 +10,20 @@ Solutions to Math599 handouts
 - 03-Matrix-=-some-column-vectors
   + [2021S](03-Matrix-=-some-column-vectors-2021S.ipynb) by 周柏呈, 李子陵, 劉彥均, 黃齡誼, 魏齊
 - 04-Matrix-=-some-action
+  + [2021S](04-Matrix-=-some-action-2021S.ipynb) by 鄭凱鍠, 錢傳文, 蘇威全, 孫宥寬, 王楷帆
 - 05-Solving-Ax-=-0
   + [2021S](05-Solving-Ax-=-0-2021S.ipynb) by 張辰瑜, 張君瑋, 陳柏勳, 呂淳泓, 蘇禹丞
 - 06-Solving-Ax-=-b
+  + [2021S](06-Solving-Ax-=-b-2021S.ipynb) by 江皓瑋, 何岭育, 林家興, 王政德, 魏義維
 - 07-Projection
   + [2021S](07-Projection-2021S.ipynb) by 許峻彥, 胡璧翎, 李翊誠, 林靖恩, 吳世鴻
 - 08-Orthogonal-basis
   + [2021S](08-Orthogonal-basis-2021S.ipynb) by Sanny Bùi, 朱立民, 施怡安, 林其璜, 顏廷維
 - 09-Spectral-decomposition
+  + [2021S](09-Spectral-decomposition-2021S.ipynb) by 陳泯儒, 洪卉芬, 魏齊, 楊宗錡, 余任濤
 - 10-Change-of-basis-for-vectors
 - 11-Change-of-basis-for-matrices
+  + [2021S](11-Change-of-basis-for-matrices-2021S.ipynb) by 張君瑋, 郭芝融, 李子陵, 劉彥均
 - 12-Diagonalization
 - 13-Rayleigh-quotient
 - 14-Power-method
