@@ -22,6 +22,7 @@ Solutions to Math599 handouts
 - 09-Spectral-decomposition
   + [2021S](09-Spectral-decomposition-2021S.ipynb) by 陳泯儒, 洪卉芬, 魏齊, 楊宗錡, 余任濤
 - 10-Change-of-basis-for-vectors
+  + [2021S](10-Change-of-basis-for-vectors-2021S.ipynb) by 錢傳文, 許育禎, 林良埄, 羅祖佑
 - 11-Change-of-basis-for-matrices
   + [2021S](11-Change-of-basis-for-matrices-2021S.ipynb) by 張君瑋, 郭芝融, 李子陵, 劉彥均
 - 12-Diagonalization
