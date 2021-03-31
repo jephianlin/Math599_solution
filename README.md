@@ -28,6 +28,7 @@ Solutions to Math599 handouts
 - 12-Diagonalization
 - 13-Rayleigh-quotient
 - 14-Power-method
+  + [2021S](14-Power-method-2021S.ipynb) by 朱立民, 莊博勛, 林家興, 林宜璇, 王政德	
 - 15-Singular-value-decomposition
 
 
