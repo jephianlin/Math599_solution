@@ -28,10 +28,10 @@ Solutions to Math599 handouts
 - 12-Diagonalization
   + [2021S](12-Diagonalization-2021S.ipynb) by 鄭凱鍠, 江皓瑋, 李胤豪, 蘇峻緯, 王楷帆
 - 13-Rayleigh-quotient
+  + [2021S](13-Rayleigh-quotient-2021S.ipynb) by 陳柏勳, 陳信儒, 高童玄, 許峻彥, 蘇禹丞
 - 14-Power-method
   + [2021S](14-Power-method-2021S.ipynb) by 朱立民, 莊博勛, 林家興, 林宜璇, 王政德	
 - 15-Singular-value-decomposition
-
 
 
 [MLwithNumPy](http://www.math.nsysu.edu.tw/~chlin/2021SMath599/2021SMath599.html)
