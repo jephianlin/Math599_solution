@@ -37,6 +37,7 @@ Solutions to Math599 handouts
 [MLwithNumPy](http://www.math.nsysu.edu.tw/~chlin/2021SMath599/2021SMath599.html)
 - PCA with sklearn
 - PCA from scratch
+  + [2021S](PCA-from-scratch-2021S.ipynb) by 張君瑋, 陳姿霖, 高童玄, 胡璧翎, 蘇禹丞
 - MDS with sklearn
 - MDS from scratch
 - KMeans with sklearn
