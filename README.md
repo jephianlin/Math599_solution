@@ -36,6 +36,7 @@ Solutions to Math599 handouts
 
 [MLwithNumPy](http://www.math.nsysu.edu.tw/~chlin/2021SMath599/2021SMath599.html)
 - PCA with sklearn
+  + [2021S](PCA-with-scikit-learn-2021S.ipynb) by 朱世軒, 黃齡誼, 李翊誠, 劉彥均, 余任濤
 - PCA from scratch
   + [2021S](PCA-from-scratch-2021S.ipynb) by 張君瑋, 陳姿霖, 高童玄, 胡璧翎, 蘇禹丞
 - MDS with sklearn
