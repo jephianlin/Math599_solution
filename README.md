@@ -42,6 +42,7 @@ Solutions to Math599 handouts
 - MDS with sklearn
   + [2021S](MDS-with-scikit-learn-2021S.ipynb) by 徐浩雲, 林其璜, 蘇威全, 王楷帆
 - MDS from scratch
+  + [2021S](MDS-from-scratch-2021S.ipynb) by 江皓瑋, 高英培, 施怡安, 林家興, 林宜璇
 - KMeans with sklearn
   + [2021S](KMeans-with-scikit-learn-2021S.ipynb) by 張辰瑜, 陳柏勳, 周柏呈, 洪卉芬
 - KMeans from scracth
