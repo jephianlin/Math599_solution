@@ -52,6 +52,7 @@ Solutions to Math599 handouts
 - DBSCAN from scracth
   + [2021S](DBSCAN-from-scratch-2021S.ipynb) by 朱立民, 徐浩雲, 林其璜, 蘇威全
 - LinearRegression with sklearn
+  + [2021S](LinearRegression-with-scikit-learn-2021S.ipynb) by 陳信儒, 郭芝融, 林靖恩, 呂淳泓, 吳世鴻
 - LinearRegression from scratch
   + [2021S](LinearRegression-from-scratch-2021S.ipynb) by 張辰瑜, 周柏呈, 洪卉芬, 楊宗錡
 - PolynomialRegression with sklearn
