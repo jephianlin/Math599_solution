@@ -56,7 +56,9 @@ Solutions to Math599 handouts
 - LinearRegression from scratch
   + [2021S](LinearRegression-from-scratch-2021S.ipynb) by 張辰瑜, 周柏呈, 洪卉芬, 楊宗錡
 - PolynomialRegression with sklearn
+  + [2021S](PolynomialRegression-with-scikit-learn-2021S.ipynb) by Sanny Bùi, 莊博勛, 蘇峻緯, 魏義維, 顏廷維
 - PolynomialRegression from scratch
+  + [2021S](PolynomialRegression-from-scratch-2021S.ipynb) by 何岭育, 許育禎, 李胤豪, 林良埄, 孫宥寬
 - KNearestNeighborhood with sklearn
 - KNearestNeighborhood from scratch
 - DecisionTree with sklearn
