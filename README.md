@@ -60,6 +60,7 @@ Solutions to Math599 handouts
 - PolynomialRegression from scratch
   + [2021S](PolynomialRegression-from-scratch-2021S.ipynb) by 何岭育, 許育禎, 李胤豪, 林良埄, 孫宥寬
 - KNearestNeighborhood with sklearn
+  + [2021S](KNearestNeighborhood-with-scikit-learn-2021S.ipynb) by 陳泯儒, 陳姿霖, 高童玄, 胡璧翎, 魏齊
 - KNearestNeighborhood from scratch
 - DecisionTree with sklearn
 - DecisionTree from scratch
