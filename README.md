@@ -62,5 +62,12 @@ Solutions to Math599 handouts
 - KNearestNeighborhood with sklearn
   + [2021S](KNearestNeighborhood-with-scikit-learn-2021S.ipynb) by 陳泯儒, 陳姿霖, 高童玄, 胡璧翎, 魏齊
 - KNearestNeighborhood from scratch
+  + [2021S](KNearestNeighborhood-from-scratch-2021S.ipynb) by 陳信儒, 郭芝融, 李子陵, 呂淳泓, 吳世鴻
 - DecisionTree with sklearn
+  + [2021S](DecisionTree-with-scikit-learn-2021S.ipynb) by 錢傳文, 高英培, 施怡安, 林宜璇, 羅祖佑
 - DecisionTree from scratch
+
+<!--
+  + [2021S](DecisionTree-from-scratch-2021S.ipynb) by Sanny Bùi, 鄭凱鍠, 莊博勛, 蘇峻緯, 魏義維
+-->
+
