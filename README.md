@@ -66,8 +66,5 @@ Solutions to Math599 handouts
 - DecisionTreeClassifier with sklearn
   + [2021S](DecisionTreeClassifier-with-scikit-learn-2021S.ipynb) by 錢傳文, 高英培, 施怡安, 林宜璇, 羅祖佑
 - DecisionTreeClassifier from scratch
-
-<!--
   + [2021S](DecisionTreeClassifier-from-scratch-2021S.ipynb) by Sanny Bùi, 鄭凱鍠, 莊博勛, 蘇峻緯, 魏義維
--->
 
