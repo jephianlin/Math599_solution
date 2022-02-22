@@ -7,9 +7,10 @@ Solutions to Math599 handouts
   + [2021S](01-Matrix-=-some-numbers-2021S.ipynb) by 陳泯儒, 陳姿霖, 賴昀, 林靖恩, 楊宗錡
 - 02-Matrix-=-some-row-vectors
   + [2021S](02-Matrix-=-some-row-vectors-2021S.ipynb) by 高英培, 徐浩雲, 林良埄, 羅祖佑, 顏廷維
+  + [2022S](02-Matrix-=-some-row-vectors-2022S.ipynb) by 張瓊之, 郭培德, 吳宥漢, 葉修銘
 - 03-Matrix-=-some-column-vectors
   + [2021S](03-Matrix-=-some-column-vectors-2021S.ipynb) by 周柏呈, 李子陵, 劉彥均, 黃齡誼, 魏齊
-  + [2022S](03-Matrix-=-some-column-vectors-2022S.ipynb) by 黃暐洺, 黃竑博, 高念慈
+  + [2022S](03-Matrix-=-some-column-vectors-2022S.ipynb) by 高念慈, 黃竑博, 黃暐洺 
 - 04-Matrix-=-some-action
   + [2021S](04-Matrix-=-some-action-2021S.ipynb) by 鄭凱鍠, 錢傳文, 蘇威全, 孫宥寬, 王楷帆
 - 05-Solving-Ax-=-0
