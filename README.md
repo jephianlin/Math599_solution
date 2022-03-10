@@ -25,9 +25,9 @@ Solutions to Math599 handouts
   + [2021S](07-Projection-2021S.ipynb) by 許峻彥, 胡璧翎, 李翊誠, 林靖恩, 吳世鴻
 - 08-Orthogonal-basis
   + [2021S](08-Orthogonal-basis-2021S.ipynb) by Sanny Bùi, 朱立民, 施怡安, 林其璜, 顏廷維
+  + [2022S](08-Orthogonal-basis-2022S.ipynb) by 張簡丞淵, 胡予瑄, 廖子竣
 - 09-Spectral-decomposition
   + [2021S](09-Spectral-decomposition-2021S.ipynb) by 陳泯儒, 洪卉芬, 魏齊, 楊宗錡, 余任濤
-  + [2022S](09-Spectral-decomposition-2022S.ipynb) by 陳冠辰, 伊妮婭, 魏加妤
 - 10-Change-of-basis-for-vectors
   + [2021S](10-Change-of-basis-for-vectors-2021S.ipynb) by 錢傳文, 許育禎, 林良埄, 羅祖佑
 - 11-Change-of-basis-for-matrices
