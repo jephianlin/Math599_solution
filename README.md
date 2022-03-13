@@ -23,6 +23,7 @@ Solutions to Math599 handouts
   + [2022S](06-Solving-Ax-=-b-2022S.ipynb) by 陳威傑, 鄧丞鈞, 王皓晨
 - 07-Projection
   + [2021S](07-Projection-2021S.ipynb) by 許峻彥, 胡璧翎, 李翊誠, 林靖恩, 吳世鴻
+  + [2022S](07-Projection-2022S.ipynb) by 黃馨緣, 賴奕丞, Nguyen Thi An
 - 08-Orthogonal-basis
   + [2021S](08-Orthogonal-basis-2021S.ipynb) by Sanny Bùi, 朱立民, 施怡安, 林其璜, 顏廷維
   + [2022S](08-Orthogonal-basis-2022S.ipynb) by 張簡丞淵, 胡予瑄, 廖子竣
