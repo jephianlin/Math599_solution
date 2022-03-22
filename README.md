@@ -35,6 +35,7 @@ Solutions to Math599 handouts
   + [2021S](11-Change-of-basis-for-matrices-2021S.ipynb) by 張君瑋, 郭芝融, 李子陵, 劉彥均
 - 12-Diagonalization
   + [2021S](12-Diagonalization-2021S.ipynb) by 鄭凱鍠, 江皓瑋, 李胤豪, 蘇峻緯, 王楷帆
+  + [2022S](12-Diagonalization-2022S.ipynb) by 謝書涵, 李佩宜, Adam MALECEK
 - 13-Rayleigh-quotient
   + [2021S](13-Rayleigh-quotient-2021S.ipynb) by 陳柏勳, 陳信儒, 高童玄, 許峻彥, 蘇禹丞
 - 14-Power-method
