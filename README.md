@@ -40,6 +40,7 @@ Solutions to Math599 handouts
   + [2022S](12-Diagonalization-2022S.ipynb) by 謝書涵, 李佩宜, Adam MALECEK
 - 13-Rayleigh-quotient
   + [2021S](13-Rayleigh-quotient-2021S.ipynb) by 陳柏勳, 陳信儒, 高童玄, 許峻彥, 蘇禹丞
+  + [2022S](13-Rayleigh-quotient-2022S.ipynb) by Danylo Fatieiev, 黃奕禎, 賴真萍
 - 14-Power-method
   + [2021S](14-Power-method-2021S.ipynb) by 朱立民, 莊博勛, 林家興, 林宜璇, 王政德	
 - 15-Singular-value-decomposition
