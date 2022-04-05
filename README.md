@@ -43,6 +43,7 @@ Solutions to Math599 handouts
   + [2022S](13-Rayleigh-quotient-2022S.ipynb) by Danylo Fatieiev, 黃奕禎, 賴真萍
 - 14-Power-method
   + [2021S](14-Power-method-2021S.ipynb) by 朱立民, 莊博勛, 林家興, 林宜璇, 王政德	
+  + [2022S](14-Power-method-2022S.ipynb) by 賴義中, 馬嘉, 王崇瀚, 王毓萱
 - 15-Singular-value-decomposition
 
 
