@@ -45,6 +45,7 @@ Solutions to Math599 handouts
   + [2021S](14-Power-method-2021S.ipynb) by 朱立民, 莊博勛, 林家興, 林宜璇, 王政德	
   + [2022S](14-Power-method-2022S.ipynb) by 賴義中, 馬嘉, 王崇瀚, 王毓萱
 - 15-Singular-value-decomposition
+  + [2022S](15-Singular-value-decomposition-2022S.ipynb) by Le Thi Trang, 呂宗霖, Aniceto B. Maghirang III
 
 
 [MLwithNumPy](http://www.math.nsysu.edu.tw/~chlin/2021SMath599/2021SMath599.html)
