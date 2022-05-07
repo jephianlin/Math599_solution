@@ -59,8 +59,10 @@ Solutions to Math599 handouts
   + [2021S](MDS-from-scratch-2021S.ipynb) by 江皓瑋, 高英培, 施怡安, 林家興, 林宜璇
 - KMeans with sklearn
   + [2021S](KMeans-with-scikit-learn-2021S.ipynb) by 張辰瑜, 陳柏勳, 周柏呈, 洪卉芬
+  + [2021S](KMeans-with-scikit-learn-2021S.ipynb) by 黃奕禎, Anzila Laikhuram, ​Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
 - KMeans from scracth
   + [2021S](KMeans-from-scratch-2021S.ipynb) by 朱世軒, 許峻彥, 黃齡誼, 李翊誠, 余任濤
+  + [2021S](KMeans-from-scratch-2021S.ipynb) by 黃奕禎, Anzila Laikhuram, ​Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
 - DBSCAN with sklearn
   + [2021S](DBSCAN-with-scikit-learn-2021S.ipynb) by 何岭育, 許育禎, 李胤豪, 孫宥寬, 王政德
 - DBSCAN from scracth
