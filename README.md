@@ -61,10 +61,10 @@ Solutions to Math599 handouts
   + [2022S](MDS-from-scratch-2022S.ipynb) by 高念慈, 黃竑博, 黃馨緣, 廖子竣, 王佑鑫, 葉修銘
 - KMeans with sklearn
   + [2021S](KMeans-with-scikit-learn-2021S.ipynb) by 張辰瑜, 陳柏勳, 周柏呈, 洪卉芬
-  + [2021S](KMeans-with-scikit-learn-2021S.ipynb) by 黃奕禎, Anzila Laikhuram, ​Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
+  + [2021S](KMeans-with-scikit-learn-2021S.ipynb) by 黃奕禎, Anzila Laikhuram, Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
 - KMeans from scracth
   + [2021S](KMeans-from-scratch-2021S.ipynb) by 朱世軒, 許峻彥, 黃齡誼, 李翊誠, 余任濤
-  + [2021S](KMeans-from-scratch-2021S.ipynb) by 黃奕禎, Anzila Laikhuram, ​Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
+  + [2021S](KMeans-from-scratch-2021S.ipynb) by 黃奕禎, Anzila Laikhuram, Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
 - DBSCAN with sklearn
   + [2021S](DBSCAN-with-scikit-learn-2021S.ipynb) by 何岭育, 許育禎, 李胤豪, 孫宥寬, 王政德
 - DBSCAN from scracth
@@ -77,8 +77,10 @@ Solutions to Math599 handouts
   + [2022S](LinearRegression-from-scratch-2022S.ipynb) by 顧韻宜, 洪永政, 賴義中, Le Thi Trang, 馬嘉, Nguyen Thi An, 王毓萱
 - PolynomialRegression with sklearn
   + [2021S](PolynomialRegression-with-scikit-learn-2021S.ipynb) by Sanny Bùi, 莊博勛, 蘇峻緯, 魏義維, 顏廷維
+  + [2021S](PolynomialRegression-with-scikit-learn-2021S.ipynb) by 張簡丞淵, 鄧丞鈞, Danylo Fatieiev, 郭培德, Adam MALECEK, 蘇信維
 - PolynomialRegression from scratch
   + [2021S](PolynomialRegression-from-scratch-2021S.ipynb) by 何岭育, 許育禎, 李胤豪, 林良埄, 孫宥寬
+  + [2021S](PolynomialRegression-from-scratch-2021S.ipynb) by 張簡丞淵, 鄧丞鈞, Danylo Fatieiev, 郭培德, Adam MALECEK, 蘇信維
 - KNeighborsClassifier with sklearn
   + [2021S](KNeighborsClassifier-with-scikit-learn-2021S.ipynb) by 陳泯儒, 陳姿霖, 高童玄, 胡璧翎, 魏齊
 - KNeighborsClassifier from scratch
