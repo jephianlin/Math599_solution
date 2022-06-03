@@ -51,8 +51,10 @@ Solutions to Math599 handouts
 [MLwithNumPy](http://www.math.nsysu.edu.tw/~chlin/2021SMath599/2021SMath599.html)
 - PCA with sklearn
   + [2021S](PCA-with-scikit-learn-2021S.ipynb) by 朱世軒, 黃齡誼, 李翊誠, 劉彥均, 余任濤
+  + [2022S](PCA-with-scikit-learn-2022S.ipynb) by 陳宥嘉, 謝書涵, 伊妮婭, 林德元, 李霽軒, 李佩宜, 沈天佑
 - PCA from scratch
   + [2021S](PCA-from-scratch-2021S.ipynb) by 張君瑋, 陳姿霖, 高童玄, 胡璧翎, 蘇禹丞
+  + [2022S](PCA-from-scratch-2022S.ipynb) by 陳宥嘉, 謝書涵, 伊妮婭, 林德元, 李霽軒, 李佩宜, 沈天佑
 - MDS with sklearn
   + [2021S](MDS-with-scikit-learn-2021S.ipynb) by 徐浩雲, 林其璜, 蘇威全, 王楷帆
   + [2022S](MDS-with-scikit-learn-2022S.ipynb) by 高念慈, 黃竑博, 黃馨緣, 廖子竣, 王佑鑫, 葉修銘
@@ -67,8 +69,10 @@ Solutions to Math599 handouts
   + [2021S](KMeans-from-scratch-2021S.ipynb) by 黃奕禎, Anzila Laikhuram, Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
 - DBSCAN with sklearn
   + [2021S](DBSCAN-with-scikit-learn-2021S.ipynb) by 何岭育, 許育禎, 李胤豪, 孫宥寬, 王政德
+  + [2022S](DBSCAN-with-scikit-learn-2022S.ipynb) by 陳冠辰, 陳品禎, 陳威傑, 黃暐洺, 呂宗霖, 吳宥漢
 - DBSCAN from scracth
   + [2021S](DBSCAN-from-scratch-2021S.ipynb) by 朱立民, 徐浩雲, 林其璜, 蘇威全
+  + [2022S](DBSCAN-from-scratch-2022S.ipynb) by 陳冠辰, 陳品禎, 陳威傑, 黃暐洺, 呂宗霖, 吳宥漢
 - LinearRegression with sklearn
   + [2021S](LinearRegression-with-scikit-learn-2021S.ipynb) by 陳信儒, 郭芝融, 林靖恩, 呂淳泓, 吳世鴻
   + [2022S](LinearRegression-with-scikit-learn-2022S.ipynb) by 顧韻宜, 洪永政, 賴義中, Le Thi Trang, 馬嘉, Nguyen Thi An, 王毓萱
