@@ -87,8 +87,10 @@ Solutions to Math599 handouts
   + [2021S](PolynomialRegression-from-scratch-2021S.ipynb) by 張簡丞淵, 鄧丞鈞, Danylo Fatieiev, 郭培德, Adam MALECEK, 蘇信維
 - KNeighborsClassifier with sklearn
   + [2021S](KNeighborsClassifier-with-scikit-learn-2021S.ipynb) by 陳泯儒, 陳姿霖, 高童玄, 胡璧翎, 魏齊
+  + [2022S](KNeighborsClassifier-with-scikit-learn-2022S.ipynb) by 張瓊之, 洪昇是, 胡予瑄, 賴真萍, 魏加妤, 顏紫砡
 - KNeighborsClassifier from scratch
   + [2021S](KNeighborsClassifier-from-scratch-2021S.ipynb) by 陳信儒, 郭芝融, 李子陵, 呂淳泓, 吳世鴻
+  + [2021S](KNeighborsClassifier-from-scratch-2021S.ipynb) by 張瓊之, 洪昇是, 胡予瑄, 賴真萍, 魏加妤, 顏紫砡
 - DecisionTreeClassifier with sklearn
   + [2021S](DecisionTreeClassifier-with-scikit-learn-2021S.ipynb) by 錢傳文, 高英培, 施怡安, 林宜璇, 羅祖佑
 - DecisionTreeClassifier from scratch
