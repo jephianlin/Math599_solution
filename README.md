@@ -6,6 +6,7 @@ Solutions to Math599 handouts
 - 01-Matrix-=-some-numbers
   + [2021S](01-Matrix-=-some-numbers-2021S.ipynb) by 陳泯儒, 陳姿霖, 賴昀, 林靖恩, 楊宗錡
   + [2022S](01-Matrix-=-some-numbers-2022S.ipynb) by 顧韻宜, 沈天佑, 蘇信維, 楊宜呈
+  + [2023S](01-Matrix-=-some-numbers-2023S.ipynb) by 陳勃勳, 杜惟翔, 李明儒, 馬西歐
 - 02-Matrix-=-some-row-vectors
   + [2021S](02-Matrix-=-some-row-vectors-2021S.ipynb) by 高英培, 徐浩雲, 林良埄, 羅祖佑, 顏廷維
   + [2022S](02-Matrix-=-some-row-vectors-2022S.ipynb) by 張瓊之, 郭培德, 吳宥漢, 葉修銘
