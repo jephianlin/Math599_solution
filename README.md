@@ -14,12 +14,15 @@ Solutions to Math599 handouts
 - 03-Matrix-=-some-column-vectors
   + [2021S](03-Matrix-=-some-column-vectors-2021S.ipynb) by 周柏呈, 李子陵, 劉彥均, 黃齡誼, 魏齊
   + [2022S](03-Matrix-=-some-column-vectors-2022S.ipynb) by 高念慈, 黃竑博, 黃暐洺 
+  + [2023S](03-Matrix-=-some-column-vectors-2023S.ipynb) by Jerry, 陸昱儒, Migel Sastrawan Sugiarto, 孫浩崴, 吳政緯
 - 04-Matrix-=-some-action
   + [2021S](04-Matrix-=-some-action-2021S.ipynb) by 鄭凱鍠, 錢傳文, 蘇威全, 孫宥寬, 王楷帆
   + [2022S](04-Matrix-=-some-action-2022S.ipynb) by 陳宥嘉, 黃景瑄, 伍震宇, 楊孟軒
+  + [2023S](04-Matrix-=-some-action-2023S.ipynb) by 郭丞恩, 謝宛臻, 唐聖育, 吳昱慶, 楊芷綺, 張瓊之
 - 05-Solving-Ax-=-0
   + [2021S](05-Solving-Ax-=-0-2021S.ipynb) by 張辰瑜, 張君瑋, 陳柏勳, 呂淳泓, 蘇禹丞
   + [2022S](05-Solving-Ax-=-0-2022S.ipynb) by 陳品禎, 林德元, 顏紫砡
+  + [2023S](05-Solving-Ax-=-0-2023S.ipynb) by Jules BRASSEUR, 陳依柔, 李世煜, 葉柏言
 - 06-Solving-Ax-=-b
   + [2021S](06-Solving-Ax-=-b-2021S.ipynb) by 江皓瑋, 何岭育, 林家興, 王政德, 魏義維
   + [2022S](06-Solving-Ax-=-b-2022S.ipynb) by 陳威傑, 鄧丞鈞, 王皓晨
