@@ -18,7 +18,7 @@ Solutions to Math599 handouts
 - 04-Matrix-=-some-action
   + [2021S](04-Matrix-=-some-action-2021S.ipynb) by 鄭凱鍠, 錢傳文, 蘇威全, 孫宥寬, 王楷帆
   + [2022S](04-Matrix-=-some-action-2022S.ipynb) by 陳宥嘉, 黃景瑄, 伍震宇, 楊孟軒
-  + [2023S](04-Matrix-=-some-action -2023S.ipynb) by 郭丞恩, 謝宛臻, 唐聖育, 吳昱慶, 楊芷綺, 張瓊之
+  + [2023S](04-Matrix-=-some-action-2023S.ipynb) by 郭丞恩, 謝宛臻, 唐聖育, 吳昱慶, 楊芷綺, 張瓊之
 - 05-Solving-Ax-=-0
   + [2021S](05-Solving-Ax-=-0-2021S.ipynb) by 張辰瑜, 張君瑋, 陳柏勳, 呂淳泓, 蘇禹丞
   + [2022S](05-Solving-Ax-=-0-2022S.ipynb) by 陳品禎, 林德元, 顏紫砡
