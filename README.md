@@ -22,7 +22,7 @@ Solutions to Math599 handouts
 - 05-Solving-Ax-=-0
   + [2021S](05-Solving-Ax-=-0-2021S.ipynb) by 張辰瑜, 張君瑋, 陳柏勳, 呂淳泓, 蘇禹丞
   + [2022S](05-Solving-Ax-=-0-2022S.ipynb) by 陳品禎, 林德元, 顏紫砡
-  + [2023S](05-Solving-Ax-=-0-2023S.ipynb) by Jules BRASSEUR, 陳依柔, 李世煜, 葉柏言
+  + [2023S](05_Solving_Ax_=_0-2023S.ipynb) by Jules BRASSEUR, 陳依柔, 李世煜, 葉柏言
 - 06-Solving-Ax-=-b
   + [2021S](06-Solving-Ax-=-b-2021S.ipynb) by 江皓瑋, 何岭育, 林家興, 王政德, 魏義維
   + [2022S](06-Solving-Ax-=-b-2022S.ipynb) by 陳威傑, 鄧丞鈞, 王皓晨
