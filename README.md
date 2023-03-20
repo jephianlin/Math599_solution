@@ -26,12 +26,15 @@ Solutions to Math599 handouts
 - 06-Solving-Ax-=-b
   + [2021S](06-Solving-Ax-=-b-2021S.ipynb) by 江皓瑋, 何岭育, 林家興, 王政德, 魏義維
   + [2022S](06-Solving-Ax-=-b-2022S.ipynb) by 陳威傑, 鄧丞鈞, 王皓晨
+  + [2023S](06-Solving-Ax-=-b-2023S.ipynb) by 姜鈞, 李仁傑, 林家賢, 呂彥鋒, 羅景耀
 - 07-Projection
   + [2021S](07-Projection-2021S.ipynb) by 許峻彥, 胡璧翎, 李翊誠, 林靖恩, 吳世鴻
   + [2022S](07-Projection-2022S.ipynb) by 黃馨緣, 賴奕丞, Nguyen Thi An
+  + [2023S](07-Projection-2023S.ipynb) by 杜永傑, David HORSKY, Difanrse Rebecca HOUITTE, 黃育鋒, 吳清聖, 葉婷婷
 - 08-Orthogonal-basis
   + [2021S](08-Orthogonal-basis-2021S.ipynb) by Sanny Bùi, 朱立民, 施怡安, 林其璜, 顏廷維
   + [2022S](08-Orthogonal-basis-2022S.ipynb) by 張簡丞淵, 胡予瑄, 廖子竣
+  + [2023S](08-Orthogonal-basis-2023S.ipynb) by 郭晏妤, 李睿, 魏千寶, 吳昀哲
 - 09-Spectral-decomposition
   + [2021S](09-Spectral-decomposition-2021S.ipynb) by 陳泯儒, 洪卉芬, 魏齊, 楊宗錡, 余任濤
 - 10-Change-of-basis-for-vectors
