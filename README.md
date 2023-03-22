@@ -37,6 +37,8 @@ Solutions to Math599 handouts
   + [2023S](08-Orthogonal-basis-2023S.ipynb) by 郭晏妤, 李睿, 魏千寶, 吳昀哲
 - 09-Spectral-decomposition
   + [2021S](09-Spectral-decomposition-2021S.ipynb) by 陳泯儒, 洪卉芬, 魏齊, 楊宗錡, 余任濤
+  + [2023S](09-Spectral-decomposition-2023S.ipynb) by 陳品潔, 黃偉柏, 溫宏岳
+- 10-Change-of-basis-for-vectors
 - 10-Change-of-basis-for-vectors
   + [2021S](10-Change-of-basis-for-vectors-2021S.ipynb) by 錢傳文, 許育禎, 林良埄, 羅祖佑
   + [2022S](10-Change-of-basis-for-vectors-2022S.ipynb) by 陳季磊, 盧立芳, 王佑鑫
