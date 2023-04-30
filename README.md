@@ -62,6 +62,7 @@ Solutions to Math599 handouts
 - PCA with sklearn
   + [2021S](PCA-with-scikit-learn-2021S.ipynb) by 朱世軒, 黃齡誼, 李翊誠, 劉彥均, 余任濤
   + [2022S](PCA-with-scikit-learn-2022S.ipynb) by 陳宥嘉, 謝書涵, 伊妮婭, 林德元, 李霽軒, 李佩宜, 沈天佑
+  + [2023S](PCA-with-scikit-learn-2023S.ipynb) by 張瓊之, 陳勃勳, 謝宛臻, 李仁傑, 葉婷婷
 - PCA from scratch
   + [2021S](PCA-from-scratch-2021S.ipynb) by 張君瑋, 陳姿霖, 高童玄, 胡璧翎, 蘇禹丞
   + [2022S](PCA-from-scratch-2022S.ipynb) by 陳宥嘉, 謝書涵, 伊妮婭, 林德元, 李霽軒, 李佩宜, 沈天佑
