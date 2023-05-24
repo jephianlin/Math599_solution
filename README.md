@@ -83,10 +83,11 @@ Solutions to Math599 handouts
 - DBSCAN with sklearn
   + [2021S](DBSCAN-with-scikit-learn-2021S.ipynb) by 何岭育, 許育禎, 李胤豪, 孫宥寬, 王政德
   + [2022S](DBSCAN-with-scikit-learn-2022S.ipynb) by 陳冠辰, 陳品禎, 陳威傑, 黃暐洺, 呂宗霖, 吳宥漢
+  + [2023S](DBSCAN-with-scikit-learn-2023S.ipynb) by 杜永傑, 郭丞恩, 李睿, 姜鈞
 - DBSCAN from scracth
   + [2021S](DBSCAN-from-scratch-2021S.ipynb) by 朱立民, 徐浩雲, 林其璜, 蘇威全
   + [2022S](DBSCAN-from-scratch-2022S.ipynb) by 陳冠辰, 陳品禎, 陳威傑, 黃暐洺, 呂宗霖, 吳宥漢
-  + [2023S](DBSCAN-from-scratch-2023S.ipynb) by 杜永傑, 郭丞恩, 李睿, 姜鈞
+  + [2023S](DBSCAN-from-scratch-2023S.ipynb) by 林家賢, 馬西歐, 唐聖育, 葉柏言
 - LinearRegression with sklearn
   + [2021S](LinearRegression-with-scikit-learn-2021S.ipynb) by 陳信儒, 郭芝融, 林靖恩, 呂淳泓, 吳世鴻
   + [2022S](LinearRegression-with-scikit-learn-2022S.ipynb) by 顧韻宜, 洪永政, 賴義中, Le Thi Trang, 馬嘉, Nguyen Thi An, 王毓萱
