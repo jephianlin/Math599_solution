@@ -79,7 +79,8 @@ Solutions to Math599 handouts
   + [2023S](KMeans-with-scikit-learn-2023S.ipynb) by 黃育鋒, 李明儒, 羅景耀, Jules Brasseur
 - KMeans from scracth
   + [2021S](KMeans-from-scratch-2021S.ipynb) by 朱世軒, 許峻彥, 黃齡誼, 李翊誠, 余任濤
-  + [2021S](KMeans-from-scratch-2021S.ipynb) by 黃奕禎, Anzila Laikhuram, Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
+  + [2022S](KMeans-from-scratch-2022S.ipynb) by 黃奕禎, Anzila Laikhuram, Aniceto B. Maghirang III, 王崇瀚, 王皓晨, 伍震宇
+  + [2023S](KMeans-from-scratch-2023S.ipynb) by 杜惟翔, Rebecca HOUITTE, 許靜瑜, 吳政緯
 - DBSCAN with sklearn
   + [2021S](DBSCAN-with-scikit-learn-2021S.ipynb) by 何岭育, 許育禎, 李胤豪, 孫宥寬, 王政德
   + [2022S](DBSCAN-with-scikit-learn-2022S.ipynb) by 陳冠辰, 陳品禎, 陳威傑, 黃暐洺, 呂宗霖, 吳宥漢
