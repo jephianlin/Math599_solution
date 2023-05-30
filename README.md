@@ -96,7 +96,7 @@ Solutions to Math599 handouts
 - LinearRegression from scratch
   + [2021S](LinearRegression-from-scratch-2021S.ipynb) by 張辰瑜, 周柏呈, 洪卉芬, 楊宗錡
   + [2022S](LinearRegression-from-scratch-2022S.ipynb) by 顧韻宜, 洪永政, 賴義中, Le Thi Trang, 馬嘉, Nguyen Thi An, 王毓萱
-  + [2022S](LinearRegression-from-scratch-2023S.ipynb) by 陸昱儒, Migel, 吳昀哲, 楊芷綺
+  + [2023S](LinearRegression-from-scratch-2023S.ipynb) by 陸昱儒, Migel, 吳昀哲, 楊芷綺
 - PolynomialRegression with sklearn
   + [2021S](PolynomialRegression-with-scikit-learn-2021S.ipynb) by Sanny Bùi, 莊博勛, 蘇峻緯, 魏義維, 顏廷維
   + [2021S](PolynomialRegression-with-scikit-learn-2021S.ipynb) by 張簡丞淵, 鄧丞鈞, Danylo Fatieiev, 郭培德, Adam MALECEK, 蘇信維
