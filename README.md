@@ -109,7 +109,8 @@ Solutions to Math599 handouts
   + [2023S](KNeighborsClassifier-with-scikit-learn-2023S.ipynb) by David, 黃偉柏, 王湋婷,  魏千寶
 - KNeighborsClassifier from scratch
   + [2021S](KNeighborsClassifier-from-scratch-2021S.ipynb) by 陳信儒, 郭芝融, 李子陵, 呂淳泓, 吳世鴻
-  + [2021S](KNeighborsClassifier-from-scratch-2021S.ipynb) by 張瓊之, 洪昇是, 胡予瑄, 賴真萍, 魏加妤, 顏紫砡
+  + [2022S](KNeighborsClassifier-from-scratch-2022S.ipynb) by 張瓊之, 洪昇是, 胡予瑄, 賴真萍, 魏加妤, 顏紫砡
+  + [2023S](KNeighborsClassifier-from-scratch-2023S.ipynb) by 郭晏妤, 温宏岳, 吳昱慶
 - DecisionTreeClassifier with sklearn
   + [2021S](DecisionTreeClassifier-with-scikit-learn-2021S.ipynb) by 錢傳文, 高英培, 施怡安, 林宜璇, 羅祖佑
   + [2022S](DecisionTreeClassifier-with-scikit-learn-2022S.ipynb) by 陳季磊, 黃景瑄, 賴奕丞, 盧立芳, 楊孟軒, 楊宜呈
